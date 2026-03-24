@@ -1,0 +1,39 @@
+Started Main
+Loading finished. Result: OK
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+Auth finished. Result: OK
+Starting Form1
+Form1 Exited cleanly
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
+AuthForm Shown - AutoLogin starting
+AutoLogin result: True
